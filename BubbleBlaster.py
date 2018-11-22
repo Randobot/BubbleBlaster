@@ -1,5 +1,7 @@
 
 #Bubble Blaster Game
+#Pop bubbles and get points! Get to 1000 before the time runs out.
+#You get 30 seconds, 1000 points: 30+ seconds
 
 from tkinter import *
 
